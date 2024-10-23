@@ -1,2 +1,2 @@
 # horizon-assets
-assets for the minecraft client nexus (in development)
+assets for the minecraft client horizon (in development)
